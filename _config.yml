@@ -24,7 +24,6 @@ social:
   name: Jiwoo Kang
   email: jwk061214@gmail.com # 실제 이메일 주소로 수정
   links:
-    - https://twitter.com/jwk061214
     - https://github.com/jwk061214
     # 추가 소셜 링크가 있으면 여기에 추가
 
@@ -44,7 +43,8 @@ theme_mode: dark
 cdn: "https://chirpy-img.netlify.app"
 
 # Avatar on sidebar
-avatar: "/commons/avatar.jpg"
+avatar: /Users/jiwoo/jwk061214.github.io/11B61904-931A-45B7-B46F-5FCD330B96DC.jpeg # 원하는 Local, CDN 등등의 주소로 설정하면 된다.
+
 
 # Site-wide social preview image
 social_preview_image: "/commons/social-preview.jpg"
